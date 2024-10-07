@@ -1,0 +1,30 @@
+.card {
+  text-align: center;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 10px;
+  width: 130px;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.name {
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.online {
+  color: green;
+  font-size: 26px;
+  margin-top: 10px;
+}
+
+.offline {
+  color: red;
+  font-size: 26px;
+  margin-top: 10px;
+}
